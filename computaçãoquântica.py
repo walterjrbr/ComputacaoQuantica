@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """ComputaçãoQuântica.ipynb"""
-git add README.md
-
 
 
 !pip install qiskit
