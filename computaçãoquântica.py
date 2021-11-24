@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""ComputaçãoQuântica.ipynb
+"""ComputaçãoQuântica.ipynb"""
+git add README.md
 
 
 
