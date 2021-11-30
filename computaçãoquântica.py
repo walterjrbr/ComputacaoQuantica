@@ -29,5 +29,6 @@ display(qc.draw())   # Mostra o circuito quântico
 
 backend = Aer.get_backend('qasm_simulator')
 
-execute(qc,backend,shots=1000).result().get_counts()
+prob = execute(qc,backend,shots=1000).result().get_counts()
 
+plot_histogram(prob)
